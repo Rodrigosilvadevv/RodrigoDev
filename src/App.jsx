@@ -130,7 +130,7 @@ export default function Portfolio() {
       title: "RCF Instalações",
       shortDesc: "Showcase digital de serviços de instalação elétrica com domínio customizado e deploy automatizado.",
       techs: ["React", "Render", "Registro.br"],
-      image: "meusis/public/imagens/rcfinstalacoes.png",
+      image: "/public/imagens/rcfinstalacoes.png",
       link: "https://rcfinstalacoes.com.br",
       infoTab: {
         challenge: "Estabelecer forte presença digital profissional para serviços elétricos.",
@@ -143,7 +143,7 @@ export default function Portfolio() {
       title: "Automação IoT com ESP32",
       shortDesc: "Integração de hardware e software utilizando ESP32, NFC e RFID UHF para automação.",
       techs: ["C++", "ESP32", "NFC/RFID", "IoT"],
-      image: "public/imagens/nfctag.jpg",
+      image: "/public/imagens/nfctag.jpg",
       link: null,
       infoTab: {
         challenge: "Conectar leitores físicos (RC522) a sistemas digitais para automação de acesso e controle.",
@@ -156,7 +156,7 @@ export default function Portfolio() {
       title: "Panni Dash & Murlec",
       shortDesc: "Sistemas de gerenciamento de pedidos e rastreamento de frescor para o setor alimentício e padarias.",
       techs: ["React", "Node.js", "WebSockets"],
-      image: "public/imagens/pannidash.png",
+      image: "/public/imagens/pannidash.png",
       link: null,
       infoTab: {
         challenge: "Acompanhar a fila de produção em tempo real e monitorar regras complexas de frescor de produtos de panificação.",
