@@ -130,7 +130,7 @@ export default function Portfolio() {
       title: "RCF Instalações",
       shortDesc: "Showcase digital de serviços de instalação elétrica com domínio customizado e deploy automatizado.",
       techs: ["React", "Render", "Registro.br"],
-      image: "public/imagens/rcfinstalacoes.png",
+      image: "meusis/public/imagens/rcfinstalacoes.png",
       link: "https://rcfinstalacoes.com.br",
       infoTab: {
         challenge: "Estabelecer forte presença digital profissional para serviços elétricos.",
